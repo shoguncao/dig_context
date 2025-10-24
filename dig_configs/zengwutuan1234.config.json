@@ -1,4 +1,5 @@
 {
     "dig_switch": true,
-    "forbid_update_repo_switch": true
+    "forbid_update_repo_switch": true,
+    "dig_trigger_probability": 0.2
 }
