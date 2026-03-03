@@ -1,5 +1,5 @@
 {
-    "dig_switch": false,
+    "dig_switch": true,
     "dig_cycle_up": 121,
     "dig_cycle_down": 120,
     "dig_duration_up": 81,
